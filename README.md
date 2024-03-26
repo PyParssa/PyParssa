@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Parssa a New Git User (NGU) 😁. 
+currently thinking on having a Good start with the community.
+I'm intereseted to work on Bio projects.
 <!--
 **PyParssa/PyParssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
