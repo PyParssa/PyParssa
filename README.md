@@ -1,7 +1,11 @@
 ### Hi there 👋
-I'm Parssa a New Git User (NGU) 😁. 
-currently thinking on having a Good start with the community.
-I'm intereseted to work on Bio projects.
+Ever spent hours chasing a bug you can’t let go? That’s me—curious, persistent, and obsessed with solving problems. I’m Parssa, exploring the world of machine learning, neural networks, and AI to create tools that help people improve their health and everyday lives.
+
+I’m learning and experimenting with Python, IoT, electronics, and data-driven solutions, inspired by Andrew Ng’s courses. While I’m still early in my journey, I jump into competitions, projects, and challenges ready to learn from every success and failure.
+
+Off the screen, you’ll find me strumming flamenco guitar, enjoying classic movies, or laughing at Charlie Brown and Seinfeld.
+
+If you love tinkering, learning, and building things that matter, check out my projects or connect—I’m always up for a challenge.
 <!--
 **PyParssa/PyParssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
